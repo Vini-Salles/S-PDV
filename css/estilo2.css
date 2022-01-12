@@ -1,0 +1,191 @@
+body {
+    background-color: aliceblue;
+    overflow-x: hidden;
+}
+
+
+/*--------------------------------------------------------------------------------------------------*/
+
+.btn-sanduiche {
+    margin-left: -14px !important;
+    width: 60px !important;
+    height: 50px !important;
+    background-color: #257383;
+    border: 0;
+}
+
+.btn-sanduiche:hover {
+    color: black;
+    background-color: #257383;
+}
+
+svg {
+    width: 30px !important;
+    height: 30px !important;
+}
+
+.navbar {
+    background-color: #257383 !important;
+    opacity: 80% !important;
+}
+
+.navbar-brand {
+    margin-left: 13px !important;
+}
+
+.font-monospace {
+    margin-right: 10px !important;
+    margin-top: 10px !important;
+    cursor: pointer;
+}
+
+.bi-person-circle {
+    width: 26px !important;
+    height: 26px !important;
+    margin-top: -2px !important;
+    margin-right: 10px !important;
+    cursor: pointer;
+}
+
+.dropdown {
+    width: 20px !important;
+    margin-right: 60px !important;
+}
+
+.dropdown-toggle {
+    background-color: #257383 !important;
+    border: 0;
+}
+
+.dropdown-menu {
+    background-color: black !important;
+}
+
+.nav-menu {
+    width: 71px !important;
+    height: 100vh !important;
+    background-color: #293133 !important;
+    border-right: 2px solid #535353;
+}
+
+.nav-link1 {
+    margin-top: 60px !important;
+}
+
+.list-group-flush {
+    width: 230px !important;
+    margin-left: 36px !important;
+    margin-top: -46px !important;
+    display: none;
+}
+
+.list-group-item {
+    color: aliceblue;
+    background-color: #293133 !important;
+    border: 2px solid #53535353;
+}
+
+.list-group-item:hover {
+    color: aliceblue;
+    background-color: #535353 !important;
+}
+/*---------------------------------------------------------------------------------------------------------*/
+/*============================Formatando os icones do nav-menu=====================*/
+
+.bi-person {
+    margin-top: 20px !important; 
+    color: #257383 !important;
+}
+.bi-person:hover {
+    color: #535353 !important;
+}
+
+.bi-box-seam {
+    margin-left: -36px !important;
+    margin-bottom: -104px !important;
+    color: #257383 !important;
+}
+
+.bi-box-seam:hover {
+    color: #535353 !important;
+}
+
+.bi-truck {
+    margin-left: -32px !important;
+    margin-bottom: -190px !important;
+    color: #257383 !important;
+}
+
+.bi-truck:hover {
+    color: #535353 !important;
+}
+
+.bi-cart-check {
+    margin-left: -36px !important;
+    margin-bottom: -258px !important;
+    color: #257383 !important;
+}
+
+.bi-cart-check:hover {
+    color: #535353 !important;
+}
+
+.bi-cash-coin {
+    margin-left: -36px !important;
+    margin-bottom: -340px !important;
+    color: #257383 !important;
+}
+.bi-cash-coin:hover {
+    color: #535353 !important;
+}
+
+.bi-journal-check {
+    margin-left: -34px !important;
+    margin-bottom: -420px !important;
+    color: #257383 !important;
+}
+
+.bi-journal-check:hover {
+    color: #535353 !important;
+}
+
+.bi-currency-exchange {
+    margin-left: -34px !important;
+    margin-bottom: -500px !important;
+    color: #257383 !important;
+}
+
+.bi-currency-exchange:hover {
+    color: #535353 !important;
+}
+
+.bi-receipt {
+    margin-left: -34px !important;
+    margin-bottom: -580px !important;
+    color: #257383 !important;
+}
+
+.bi-receipt:hover {
+    color: #535353 !important;
+}
+
+/*---------------------------------------------------------------------------------------------------------*/
+
+
+
+.rodape {
+    height: 40px !important;
+    width: 100vw !important;
+    margin-left: 72px !important;
+    margin-top: -400px !important;
+    background-color: aliceblue !important;
+    opacity: 80% !important;
+    color: black;
+    border-top: 1px solid #535353 !important;
+    border-radius: 2px !important;
+}
+
+.rodape label {
+    font-size: 12px !important;
+    margin-top: 10px !important;
+}

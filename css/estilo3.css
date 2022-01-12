@@ -1,0 +1,103 @@
+body {
+    background-color: aliceblue;
+    overflow-x: hidden;
+}
+
+
+/*--------------------------------------------------------------------------------------------------*/
+
+
+.navbar {
+    background-color: #257383 !important;
+    opacity: 80% !important;
+}
+
+.navbar-brand {
+    margin-left: 110px !important;
+}
+
+
+
+/*--------------------------------------------------------------------------------------------------*/
+
+
+
+.nav-menu {
+    width: 400px !important;
+    height: 100vh !important;
+    background-color: #293133 !important;
+}
+
+.label1 {
+    margin-top: 80px !important;
+}
+
+.nav-item {
+    margin-bottom: 6px !important;
+}
+
+.nav-item label {
+    color: aliceblue !important;
+    margin-left: 30px !important;
+    font-size: 13px !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-item input {
+    width: 350px !important;
+    margin-left: 30px !important;
+    border-radius: 0px !important;
+    height: 29px !important;
+}
+
+.bi-arrow-left {
+    color: aliceblue !important;
+    margin-top: -70px !important;
+    margin-left: 30px !important;
+    cursor: pointer;
+}
+
+.btn-primary1 {
+    margin-top: -70px !important;
+    background-color: #293133 !important;
+    border: 0;
+}
+
+.bi-trash {
+    width: 20px !important;
+    height: 20px !important;
+    margin-left: -94px !important;
+    margin-top: 70px !important;
+    color: aliceblue !important;
+    cursor: pointer;
+}
+
+.btn-primary2 {
+    height: 30px !important;
+    padding: 2px !important;
+    margin-top: 70px !important;
+    margin-left: -5px !important;
+    background-color: #293133 !important;
+    border: 0;
+}
+
+/*--------------------------------------------------------------------------------------------------*/
+
+
+
+.rodape {
+    height: 40px !important;
+    width: 100vw !important;
+    margin-left: 400px !important;
+    margin-top: -400px !important;
+    background-color: aliceblue !important;
+    opacity: 80% !important;
+    color: black;
+    border-top: 1px solid #535353 !important;
+    border-radius: 2px !important;
+}
+
+.rodape label {
+    font-size: 12px !important;
+    margin-top: 10px !important;
+}
